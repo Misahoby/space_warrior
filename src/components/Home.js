@@ -52,7 +52,7 @@ export default class Home extends Component {
           </h1>
           <div className="mainbtn">
             <a href="https://t.me/SpaceWarriorGame" className="btn">Telegram</a>
-            <a href="https://twitter.com/Space Warrior" className="btn">Twitter</a>
+            <a href="https://twitter.com/Space__Warrior" className="btn">Twitter</a>
             <a href="#" className="btn">Chart</a>
             <a href="#" className="btn">Whitepaper(Coming Soon)</a>
           </div>
